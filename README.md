@@ -43,7 +43,7 @@ CodeCollab is a powerful web-based collaborative code editor that allows develop
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/codecollab.git
+   git clone https://github.com/Kikubay/codecollab.git
    cd codecollab
    ```
 
